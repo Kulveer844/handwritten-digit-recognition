@@ -1,2 +1,0 @@
-# handwritten-digit-recognition
-This project uses a neural network to recognize handwritten digits from the MNIST dataset. The images are 28×28 grayscale pictures of digits from 0 to 9. The data is first normalized, and then a simple neural network is built using TensorFlow and Keras. The model has one hidden layer and is trained for 10 epochs. After training, it is tested on new images to check how accurately it can predict the digits. The model shows good performance and can correctly recognize most handwritten digits.
